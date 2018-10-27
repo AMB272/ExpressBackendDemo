@@ -1,0 +1,14 @@
+{
+  "name": "backexercise",
+  "version": "1.0.0",
+  "description": "A demo express app with basic express functionalities for routing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Bandekar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
