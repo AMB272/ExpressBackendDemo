@@ -13,4 +13,9 @@ to use:
   -->the animal names are: pig, cow, dog 
   (maintain case while entering, haven't added the minor fix, coming soon in the next commit!)  
   
+  e.g.,localhost:3000/speak/dog
+  
+  
   localhost:3000/repeat/[any word]/[no. of times you wish for it to repeat]
+  
+  e.g.,localhost:3000/repeat/Hello/30
